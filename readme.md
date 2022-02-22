@@ -3,14 +3,15 @@
 ##### By Mansa Musah   
 
 
-# Description 
-* its just a demo 
-* a trial for my website
+# Description  
+* A sample website for my website about wild animals facts and about them.
+
 > As i said its a demo
 
 ## Technologies used 
 * HTML 
 * CSS
+* Vs Code
 
 ## License
 
